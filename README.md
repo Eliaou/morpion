@@ -1,3 +1,3 @@
 # morpion
 
-This is a tic-tac-toe game coded in JS
+This is a simple tic-tac-toe game coded in JS
