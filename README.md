@@ -1,3 +1,3 @@
-# Morpion super maxi bien 
+# Morpion super maxi bien 👌
 
 Simple morpion en JS
